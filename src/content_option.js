@@ -1,38 +1,33 @@
-const logotext = "JOHN";
+const logotext = "KAUFFMAN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ayden Kauffman",
+    description: "I’m Ayden Kauffman data scientist and Full stack developer,currently working in Pittsburgh",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ayden Kauffman",
     animated: {
-        first: "I love coding",
+        first: "I am a software engineer",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I am currently a student at the University of Pittsburgh making a career in Software Engineering",
+    your_img_url: "https://i.ibb.co/4Txycdp/headshot-NEW.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about about my self",
+    aboutme: "I am studying computer science at the University of Pittsburgh. I am graduating in December 2023 and looking to begin a career in Software Development",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Developer Intern",
+        where: "PNC",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Technology Help Desk",
+        where: "University of Pittsburgh",
+        date: "2022-2024",
     },
 ];
 
@@ -60,15 +55,11 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I have industry experience in developing unique and well designed user interfaces",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Software Engineering",
+        description: "I have many years of experience in developing software from code development to architecture",
     },
 ];
 
@@ -136,20 +127,20 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "kauffmanayden@gmail.com",
+    YOUR_FONE: "484-926-0123",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
+    YOUR_SERVICE_ID: "service_p5haq64",
     YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_USER_ID: "aNxvp_dYhhqn0BbTY",
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/AKauffy",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/ayden-kauffman",
     twitter: "https://twitter.com",
 };
 export {
